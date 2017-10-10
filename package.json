@@ -1,0 +1,28 @@
+{ "name": "array-filter-inplace",
+  "version": "1.0.0",
+  "description": "Remove non-matching elements from a dense array.",
+  "keywords": [ "array", "filter", "inplace" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/array-filter-inplace-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/array-filter-inplace-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/array-filter-inplace-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "afi.js",
+  "scripts": { "test": "nodejs test.usage.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
