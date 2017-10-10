@@ -1,5 +1,5 @@
 { "name": "array-filter-inplace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove non-matching elements from a dense array.",
   "keywords": [ "array", "filter", "inplace" ],
 
